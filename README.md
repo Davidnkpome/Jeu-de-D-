@@ -2,7 +2,7 @@
 
 Le projet se compose de trois fichiers principaux :
 
-## HTML (`index.html`)
+## HTML (`index.html`) 
 
 Le fichier HTML structure la page du jeu. Il contient les éléments suivants :
 - Des panneaux pour chaque joueur affichant le nom du joueur, son score global et son score actuel.
